@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/amandeep/Downloads/junit-4.10.jar",
+        "/Users/amandeep/Downloads/CountingSheep.jar"
+    ]
+}
